@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# TypeScript Transpile Destination
+dist/
+
+# Visual Studio Code Settings
+.vscode/

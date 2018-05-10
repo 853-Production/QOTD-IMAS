@@ -1,0 +1,26 @@
+{
+  "name": "qotd-imas",
+  "version": "1.0.0",
+  "description": "QOTD Server of THE IDOLM@STER Series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/853-Production/QOTD-IMAS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/853-Production/QOTD-IMAS/issues"
+  },
+  "homepage": "https://github.com/853-Production/QOTD-IMAS#readme",
+  "dependencies": {
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.6",
+    "tslint": "^5.10.0"
+  }
+}
