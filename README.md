@@ -1,0 +1,2 @@
+# QOTD-IMAS
+QOTD Server of THE IDOLM@STER Series 
